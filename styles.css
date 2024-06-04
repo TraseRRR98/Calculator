@@ -11,7 +11,7 @@ body {
     font-family: 'Gill Sans', sans-serif;
     background-color: hsl(281, 74%, 25%);
     border-radius: 30px;
-    max-width: 500px;
+    max-width: 450px;
     overflow: hidden;
 }
 
@@ -27,14 +27,14 @@ body {
 #keys {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
+    gap: 3px;
     padding: 25px;
 }
 
 
 button {
-    width:100px;
-    height: 100px;
+    width:90px;
+    height: 90px;
     border-radius: 30px;
     // border: none;
     background-color: hsl(0, 0%, 35%);
