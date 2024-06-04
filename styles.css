@@ -11,7 +11,7 @@ body {
     font-family: 'Gill Sans', sans-serif;
     background-color: hsl(281, 74%, 25%);
     border-radius: 30px;
-    max-width: 450px;
+    max-width: 550px;
     overflow: hidden;
 }
 
@@ -27,8 +27,8 @@ body {
 #keys {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 3px;
-    padding: 25px;
+    gap: 5px;
+    padding: 55px;
 }
 
 
