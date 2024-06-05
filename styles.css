@@ -21,8 +21,9 @@ body {
     padding: 10px;
     font-size: 5rem;
     text-align: right;
-    //border: none;
+    /*border: none;*/
     background-color: hsl(281, 74%, 35%);
+    color: white;
 }
 
 #keys {
